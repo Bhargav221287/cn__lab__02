@@ -7,7 +7,7 @@ logging.basicConfig(filename="smtp_log.txt", level=logging.INFO)
 smtp_server = "smtp.gmail.com"
 port = 587
 sender_email = "bhargav159509@gmail.com"
-password = "gsxcbynkgzfucsbn"  
+password = "********"  
 receiver_email = "mahipalmaddu@gmail.com"
 
 try:
